@@ -26,7 +26,7 @@ SECRET_KEY = '(nym=4dbo(n(ow!lcomifc_sob0==a_p6kw=@bevl!gw9s0_u7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['to-do-application-django.herokuapp.com']
 
 
 # Application definition
